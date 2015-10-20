@@ -11,6 +11,8 @@
 
 using std::vector;
 
+// Test change for Git
+
 // GLOBAL CONSTANTS
 
 const double GLOBAL_MAXVALUE = -1000000;
